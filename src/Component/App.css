@@ -1,0 +1,211 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+}
+.burger {
+  position: relative;
+  left: 25px;
+  top: 3px;
+  color: white;
+  font-size: 24px;
+}
+.youtube {
+  position: relative;
+  right: 30px;
+  top: 5px;
+  font-size: 20px;
+}
+.mx {
+  position: relative;
+  right: 110px;
+  color: #aaaaaa;
+  font-size: 8px;
+}
+
+.barra-nav {
+  position: relative;
+  left: 60px;
+}
+.barra-nav input {
+  position: relative;
+  align-items: center;
+  color: white;
+  width: 520px;
+  height: 32px;
+  border-radius: 30px;
+  border-right-color: gray;
+}
+.btn {
+  background-color: rgb(75, 70, 70);
+  color: #f1f1f1;
+  position: relative;
+  right: 75px;
+  border-color: gray;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+  font-size: 24px;
+  width: 60px;
+  height: 36px;
+}
+.btn > .search {
+  background-color: transparent;
+}
+.micro {
+  display: flex;
+  justify-content: center; /*Horizontal*/
+  align-items: center; /*Vertical*/
+
+  position: relative;
+  right: 150px;
+  color: #f1f1f1;
+  font-size: 24px;
+  border-radius: 100%;
+  background-color: gray;
+  width: 37px;
+  height: 37px;
+}
+
+.micro > .micIcon {
+  background-color: transparent;
+}
+
+.camera {
+  position: relative;
+  top: 5px;
+  color: #f1f1f1;
+  font-size: 24px;
+}
+.bell {
+  position: relative;
+  right: 70px;
+  color: #f1f1f1;
+  font-size: 26px;
+  position: relative;
+  top: 5px;
+}
+.container2 {
+  position: relative;
+  left: 23px;
+  display: flex;
+  flex-direction: column;
+}
+.home {
+  position: relative;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 10px;
+  background-color: transparent;
+}
+.p1 {
+  font-size: 18px;
+  position: relative;
+  left: 4px;
+  bottom: 65px;
+}
+.out {
+  position: relative;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 3px;
+  left: 8px;
+  background-color: transparent;
+  bottom: 100px;
+}
+.p2 {
+  font-size: 18px;
+  position: relative;
+  left: 40px;
+  bottom: 30px;
+}
+.subscriptions {
+  position: relative;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 3px;
+  left: 9px;
+  background-color: none;
+  bottom: 105px;
+}
+.p3 {
+  font-size: 18px;
+  position: relative;
+  left: 40px;
+  bottom: 27px;
+}
+.round {
+  position: relative;
+  color: #f1f1f1;
+  font-size: 28px;
+  margin: 3px;
+  left: 6px;
+  background-color: none;
+  bottom: 108px;
+}
+
+.px {
+  position: relative;
+  left: 42px;
+  font-size: 18px;
+  bottom: 30px;
+}
+.library {
+  position: relative;
+  right: 2px;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 10px;
+  background-color: transparent;
+  left: 2px;
+  top: 15px;
+}
+.p4 {
+  font-size: 18px;
+  position: relative;
+  left: 42px;
+  bottom: 27px;
+}
+.watch {
+  position: relative;
+  bottom: 3px;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 10px;
+  background-color: transparent;
+  left: 2px;
+}
+.p5 {
+  font-size: 18px;
+  position: relative;
+  left: 42px;
+  bottom: 30px;
+}
+.like {
+  position: relative;
+  bottom: 20px;
+  left: 5px;
+  color: #f1f1f1;
+  font-size: 24px;
+  margin: 10px;
+  background-color: transparent;
+}
+.p6 {
+  font-size: 18px;
+  position: relative;
+  left: 40px;
+  bottom: 27px;
+}
+.h2 {
+  display: inline-block;
+  position: relative;
+  background-color: gray;
+  width: 200px;
+  border: solid;
+  height: 1px;
+  bottom: 5px;
+}

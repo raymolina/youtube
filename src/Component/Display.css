@@ -1,0 +1,60 @@
+.img1 {
+  background: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  position: relative;
+  left: 90px;
+  bottom: 510px;
+}
+.a {
+  height: 160px;
+  width: 250px;
+  margin: 10px;
+  border-radius: 15px;
+  background: none;
+}
+.lorem-text {
+  color: white;
+  background: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  position: relative;
+  left: 70px;
+  bottom: 480px;
+}
+.p1 {
+  background: none;
+  margin: 40px;
+}
+.pp2 {
+  position: relative;
+  background: none;
+  margin: 40px;
+  bottom: 250px;
+}
+.pp3 {
+  position: relative;
+  background: none;
+  margin: 40px;
+  bottom: 250px;
+  left: 40px;
+}
+
+.img2 {
+  margin: 100px;
+  background: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  position: relative;
+  left: 90px;
+  bottom: 600px;
+}
+.b {
+  height: 170px;
+  margin: 170px;
+  margin: 10px;
+  border-radius: 15px;
+}
